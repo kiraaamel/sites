@@ -1,0 +1,78 @@
+
+body {
+    font-family: Snell Roundhand, cursive;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: 30 px;
+    margin-bottom: 30px;
+    background-color: #FFC0CB; 
+}
+
+
+h1 {
+    color: #993399; 
+    text-align: center; 
+    margin-bottom: 20px;
+}
+
+p {
+    color: #660066; 
+    margin-bottom: 15px; 
+}
+
+a {
+    color: #C71585; 
+    text-decoration-style: wavy;
+    text-decoration-color: #FF69B4
+}
+
+a:hover {
+    text-decoration: underline; /* Подчеркивание при наведении */
+}
+
+div {
+    text-align: center;
+}
+
+.photo {
+    float: center;
+    margin: 4px 10px 2px 0px;
+    border:1px solid #d818a4;
+    padding:6px;
+}
+
+b {
+    color: #e24faf; 
+}
+
+.polit {
+    text-align: center;
+    font-size: 2em;
+}
+
+.ssilki {
+    font-style: italic;
+    text-align: right;
+    font-size: 1.2em;
+}
+
+.text {
+    text-align: justify;
+    line-height: 1.5;
+    font-family: American Typewriter, serif;
+    font-size: 1.2em;
+}
+
+li {
+    color: #660066;
+    font-style: normal;
+    text-align: left;
+    font-size: 1.2em;
+    padding: 10px; 
+    margin-bottom: 5px;
+}
+
+I {
+    font-size: 1.6em;
+    font-style:normal;
+}
